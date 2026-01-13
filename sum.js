@@ -12,3 +12,9 @@ module.exports = {
     Sum : calculateSum,
     Subtraction : calculateSubtraction
 }  
+
+/*
+    Node.js has an event-driven architecture capable of asynchronous I/O.
+    These design choices aim to optimize throughout and scalability in web applications with 
+    many input output operations as well as for real-time web application.
+*/
