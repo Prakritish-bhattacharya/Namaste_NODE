@@ -11,4 +11,4 @@ function calculateSubtraction(a,b){
 module.exports = {
     Sum : calculateSum,
     Subtraction : calculateSubtraction
-}
+}  
